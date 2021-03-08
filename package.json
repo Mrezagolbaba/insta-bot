@@ -1,0 +1,22 @@
+{
+  "name": "insta-bot",
+  "version": "1.0.0",
+  "description": "javascript bot for instagram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrezagolbaba/insta-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Mohamadreza golbaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mrezagolbaba/insta-bot/issues"
+  },
+  "homepage": "https://github.com/Mrezagolbaba/insta-bot#readme"
+}
