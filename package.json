@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Mrezagolbaba/insta-bot/issues"
   },
-  "homepage": "https://github.com/Mrezagolbaba/insta-bot#readme"
+  "homepage": "https://github.com/Mrezagolbaba/insta-bot#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
 }
